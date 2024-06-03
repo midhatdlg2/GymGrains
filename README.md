@@ -4,28 +4,28 @@ Welcome to the Gym Grains Bakery website project! This project aims to create an
 
 Please note: This project is a simulation and is not intended for actual e-commerce transactions.
 
-##Pages
-###Homepage
+## Pages
+### Homepage
 The main page of Gym Grains Bakery will feature:
 
 Latest offerings
 News and promotions
 Sign-up form for email updates and promotions
 
-###Product Catalogue
+### Product Catalogue
 The product catalogue will include:
 
 Professionally photographed baked goods
 Details on ingredients, costs, nutritional information, and descriptions
 Functionality for customers to order ahead
 
-###About Page
+### About Page
 This page will provide:
 
 Information about the origin story of Gym Grains Bakery
 Insights into the philosophy behind the brand
 
-###Contact Page
+### Contact Page
 An easy-to-use form that allows users to:
 
 Ask questions
@@ -37,10 +37,10 @@ Add items to their cart
 Modify their order
 Safely check out
 
-###Scheduling System
+### Scheduling System
 Komal's baking schedule will:
 
-Technologies Used
+## Technologies Used
 HTML: For the structure and content of the website
 CSS: For styling and layout
 JavaScript: For interactive elements and functionality
