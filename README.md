@@ -39,6 +39,8 @@ Safely check out
 
 ### Scheduling System
 Komal's baking schedule will:
+- Inform customers of the best times to pick up their orders
+- Guarantee prompt delivery and freshness
 
 ## Technologies Used
 HTML: For the structure and content of the website
